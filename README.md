@@ -1,8 +1,7 @@
 # mac_changer starting script
 
-
 DISCLAIMER:
-Programs created for ethical hacking purposes are for demonstration ONLY. These are not to be used for ANY maulicious practice.
+ALL CODE IS MADE FOR EDUCATIONAL PURPOSES ONLY! AND I SHALL NOT BE HELD LIABLE FOR ANY DAMAGE CAUSED USING THIS CODE.
 
 1) Imported 'subprocess'.
 	  Added general variable for testing.
